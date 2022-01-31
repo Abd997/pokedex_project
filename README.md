@@ -1,4 +1,4 @@
-### about the project
+### About the project
 
 - A react project which receives data from a public api about pokemons.
 - React then displays it using material-ui library
